@@ -5,7 +5,7 @@ export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://gitlab.com/OrangeFox/device/a12s.git -b fox_12.1"
 
 export DEVICE="a12s"
-export OEM="a12s"
+export OEM="samsung"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
